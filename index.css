@@ -1,11 +1,12 @@
 body{
     font-family:'poppins',sans-serif ;
-    background-image: url('j.jpg');
+    /* background-image: url('j.jpg'); */
+    background-color: rgba(69, 18, 99, 0.6));
     }
     header div.row{
-        background-color: #34495e;
+        background-color: rgb(4, 4, 73);
         display :flex;
-        /* color:white; */
+        color:white;
     }
     .search{
         flex:1;

@@ -65,3 +65,6 @@ body{
     #11{
      margin-left: 1000px;
     }
+    .invalid{
+        border-color: orangered;
+    }
